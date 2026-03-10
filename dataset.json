@@ -1,0 +1,173 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Emma Johnson",
+      "subject": "Mathematics",
+      "email": "emma.johnson@school.com",
+      "yearsOfExperience": 8
+    },
+    {
+      "id": 2,
+      "name": "Liam Smith",
+      "subject": "English",
+      "email": "liam.smith@school.com",
+      "yearsOfExperience": 5
+    },
+    {
+      "id": 3,
+      "name": "Olivia Brown",
+      "subject": "Science",
+      "email": "olivia.brown@school.com",
+      "yearsOfExperience": 10
+    },
+    {
+      "id": 4,
+      "name": "Noah Davis",
+      "subject": "History",
+      "email": "noah.davis@school.com",
+      "yearsOfExperience": 6
+    },
+    {
+      "id": 5,
+      "name": "Sophia Wilson",
+      "subject": "Computer Science",
+      "email": "sophia.wilson@school.com",
+      "yearsOfExperience": 7
+    }
+  ],
+  "students": [
+    { "id": 1, "name": "Ava Martinez", "age": 14, "grade": 9, "teacherId": 1 },
+    {
+      "id": 2,
+      "name": "Ethan Anderson",
+      "age": 15,
+      "grade": 10,
+      "teacherId": 2
+    },
+    { "id": 3, "name": "Mia Thomas", "age": 14, "grade": 9, "teacherId": 3 },
+    { "id": 4, "name": "James Taylor", "age": 16, "grade": 11, "teacherId": 4 },
+    {
+      "id": 5,
+      "name": "Charlotte Moore",
+      "age": 15,
+      "grade": 10,
+      "teacherId": 5
+    },
+    {
+      "id": 6,
+      "name": "Benjamin Jackson",
+      "age": 14,
+      "grade": 9,
+      "teacherId": 1
+    },
+    { "id": 7, "name": "Amelia White", "age": 16, "grade": 11, "teacherId": 2 },
+    { "id": 8, "name": "Lucas Harris", "age": 15, "grade": 10, "teacherId": 3 },
+    { "id": 9, "name": "Harper Martin", "age": 14, "grade": 9, "teacherId": 4 },
+    {
+      "id": 10,
+      "name": "Henry Thompson",
+      "age": 17,
+      "grade": 12,
+      "teacherId": 5
+    },
+    {
+      "id": 11,
+      "name": "Evelyn Garcia",
+      "age": 16,
+      "grade": 11,
+      "teacherId": 1
+    },
+    {
+      "id": 12,
+      "name": "Alexander Martinez",
+      "age": 15,
+      "grade": 10,
+      "teacherId": 2
+    },
+    {
+      "id": 13,
+      "name": "Abigail Robinson",
+      "age": 14,
+      "grade": 9,
+      "teacherId": 3
+    },
+    {
+      "id": 14,
+      "name": "Michael Clark",
+      "age": 17,
+      "grade": 12,
+      "teacherId": 4
+    },
+    {
+      "id": 15,
+      "name": "Emily Rodriguez",
+      "age": 16,
+      "grade": 11,
+      "teacherId": 5
+    },
+    {
+      "id": 16,
+      "name": "Daniel Lewis",
+      "age": 15,
+      "grade": 10,
+      "teacherId": 1
+    },
+    { "id": 17, "name": "Sofia Lee", "age": 14, "grade": 9, "teacherId": 2 },
+    {
+      "id": 18,
+      "name": "Matthew Walker",
+      "age": 17,
+      "grade": 12,
+      "teacherId": 3
+    },
+    { "id": 19, "name": "Avery Hall", "age": 16, "grade": 11, "teacherId": 4 },
+    {
+      "id": 20,
+      "name": "Joseph Allen",
+      "age": 15,
+      "grade": 10,
+      "teacherId": 5
+    },
+    { "id": 21, "name": "Ella Young", "age": 14, "grade": 9, "teacherId": 1 },
+    {
+      "id": 22,
+      "name": "David Hernandez",
+      "age": 17,
+      "grade": 12,
+      "teacherId": 2
+    },
+    {
+      "id": 23,
+      "name": "Scarlett King",
+      "age": 16,
+      "grade": 11,
+      "teacherId": 3
+    },
+    {
+      "id": 24,
+      "name": "Samuel Wright",
+      "age": 15,
+      "grade": 10,
+      "teacherId": 4
+    },
+    { "id": 25, "name": "Grace Lopez", "age": 14, "grade": 9, "teacherId": 5 },
+    { "id": 26, "name": "Logan Hill", "age": 16, "grade": 11, "teacherId": 1 },
+    { "id": 27, "name": "Chloe Scott", "age": 17, "grade": 12, "teacherId": 2 },
+    {
+      "id": 28,
+      "name": "Jackson Green",
+      "age": 15,
+      "grade": 10,
+      "teacherId": 3
+    },
+    { "id": 29, "name": "Lily Adams", "age": 14, "grade": 9, "teacherId": 4 },
+    {
+      "id": 30,
+      "name": "Sebastian Baker",
+      "age": 16,
+      "grade": 11,
+      "teacherId": 5
+    }
+  ]
+}
